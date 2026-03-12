@@ -12,3 +12,30 @@ This project highlights the entire analytics lifecycle, including data ingestion
 Project Architecture
 
 The architecture follows a typical modern analytics pipeline, moving data from raw sources to business intelligence dashboards.
+Raw CSV Datasets
+(Artists, Albums, Tracks)
+        │
+        │
+        ▼
+Google Colab (Python + Pandas)
+Data Ingestion & Data Cleaning
+        │
+        │
+        ▼
+Data Transformation & Integration
+Join datasets using relational keys
+        │
+        │
+        ▼
+Star Schema Data Model
+Fact Table + Dimension Tables
+        │
+        │
+        ▼
+Power BI Data Modeling
+Relationships & DAX Measures
+        │
+        │
+        ▼
+Interactive Dashboard
+Business Insights & Visualization
