@@ -9,3 +9,6 @@ The transformed data is then imported into Power BI, where relationships are est
 Finally, an interactive Power BI dashboard is built to visualize insights such as artist productivity, album release trends, genre distribution, and track popularity rankings. The dashboard enables users to explore the data through filters and dynamic visualizations, providing an intuitive view of music analytics.
 
 This project highlights the entire analytics lifecycle, including data ingestion, transformation, data modeling, and visualization, following best practices used in real-world data engineering and BI solutions.# -Music-Analytics-End-to-End-Data-Engineering-Power-BI-Project
+Project Architecture
+
+The architecture follows a typical modern analytics pipeline, moving data from raw sources to business intelligence dashboards.
