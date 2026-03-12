@@ -39,3 +39,12 @@ Relationships & DAX Measures
         ▼
 Interactive Dashboard
 Business Insights & Visualization
+Tools & Technologies
+| Tool         | Purpose                           |
+| ------------ | --------------------------------- |
+| Python       | Data Processing                   |
+| Pandas       | Data Cleaning & Transformation    |
+| Google Colab | Data Engineering Environment      |
+| Power BI     | Data Visualization                |
+| DAX          | KPI Calculations                  |
+| GitHub       | Version Control & Project Hosting |
